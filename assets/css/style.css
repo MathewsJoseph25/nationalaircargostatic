@@ -76,7 +76,7 @@ button:focus {
 
 h3 {
   font-weight: 600;
-  color: #3c0c70;
+  color: #005192;
   font-size: 22px;
 }
 
@@ -166,7 +166,7 @@ h3 {
 .section-title h2 {
   font-size: 40px;
   font-weight: 700;
-  color: #3c0c70;
+  color: #005192;
   margin-bottom: 15px;
 }
 
@@ -192,7 +192,7 @@ h3 {
 /*---------- Home Page One CSS Start ----------*/
 /* Header CSS Start */
 .header-area {
-  background: #3c0c70;
+  background: #005192;
   padding: 10px 0 10px;
 }
 
@@ -655,7 +655,16 @@ h3 {
 }
 
 .banner-bg-two {
+  background-image: url(../../public/pic\ 2.jpg);
+}
+.banner-bg-three {
+  background-image: url(../../public/Pic\ 23\ A.jpg);
+}
+.banner-bg-four {
   background-image: url(../../public/pic\ 4.jpg);
+}
+.banner-bg-five {
+  background-image: url(../../public/Extra\ pic\ 8.png);
 }
 
 /* Banner CSS End */
@@ -679,7 +688,7 @@ h3 {
 }
 
 .features-section .feature-card i {
-  color: #3c0c70;
+  color: #005192;
   font-size: 35px;
   width: 50px;
   height: 50px;
@@ -954,7 +963,7 @@ h3 {
 }
 
 .why-choose-section .why-choose-img .shipping-text form .shipping-btn {
-  background: #3c0c70;
+  background: #005192;
   color: #ffffff;
   display: block;
   height: 50px;
@@ -995,7 +1004,7 @@ h3 {
 }
 
 .why-choose-section .why-choose-img .shipping-text form .shipping-btn:hover {
-  color: #3c0c70;
+  color: #005192;
 }
 
 .why-choose-section .why-choose-text {
@@ -1037,7 +1046,7 @@ h3 {
   position: absolute;
   left: 20px;
   top: 15px;
-  color: #3c0c70;
+  color: #005192;
   -webkit-transition: 0.5s;
   transition: 0.5s;
   font-size: 25px;
@@ -1048,7 +1057,7 @@ h3 {
   .accordions
   .accordion-item
   .accordion-title.active-title {
-  background-color: #3c0c70;
+  background-color: #005192;
 }
 
 .why-choose-section
@@ -1091,7 +1100,7 @@ h3 {
   -webkit-box-pack: justify;
   -ms-flex-pack: justify;
   justify-content: space-between;
-  color: #3c0c70;
+  color: #005192;
   line-height: 20px;
 }
 
@@ -1153,7 +1162,7 @@ h3 {
 
 .get-quote-section .quote-text .offer-text span {
   color: #ffffff;
-  background: #3c0c70;
+  background: #005192;
   display: inline-block;
   width: 100px;
   height: 100px;
@@ -1357,7 +1366,7 @@ h3 {
 .quote-bg::before {
   position: absolute;
   content: "";
-  background: #3c0c70;
+  background: #005192;
   width: 100%;
   height: 100%;
   left: 0;
@@ -1520,7 +1529,7 @@ h3 {
 .feedback-bg::before {
   position: absolute;
   content: "";
-  background: #3c0c70;
+  background: #005192;
   width: 100%;
   height: 100%;
   top: 0;
@@ -1592,7 +1601,7 @@ h3 {
 }
 
 .blog-section .blog-card .blog-text h3 a {
-  color: #3c0c70;
+  color: #005192;
 }
 
 .blog-section .blog-card .blog-text h3 a:hover {
@@ -1767,7 +1776,7 @@ h3 {
 /* Newsletter CSS End */
 /* Footer CSS Start */
 .footer-area {
-  background: #3c0c70;
+  background: #005192;
   padding-top: 200px;
   position: relative;
   z-index: 0;
@@ -1840,7 +1849,7 @@ h3 {
 .footer-area .footer-widget h3::after {
   position: absolute;
   content: "";
-  background: #3c0c70;
+  background: #005192;
   width: 3px;
   height: 3px;
   left: 0;
@@ -1994,7 +2003,7 @@ h3 {
 }
 
 .nav-style-two.is-sticky {
-  background: #3c0c70;
+  background: #005192;
   border-bottom: 0;
 }
 
@@ -2082,7 +2091,7 @@ h3 {
   transition: 0.5s;
   border-radius: 5px;
   position: absolute;
-  background: #3c0c70;
+  background: #005192;
 }
 
 .choose-style-two .choose-card::after {
@@ -2096,7 +2105,7 @@ h3 {
   transition: 0.5s;
   border-radius: 5px;
   position: absolute;
-  background: #3c0c70;
+  background: #005192;
 }
 
 .choose-style-two .choose-card i {
@@ -2131,7 +2140,7 @@ h3 {
 }
 
 .choose-style-two .choose-card:hover i {
-  color: #3c0c70;
+  color: #005192;
 }
 
 .choose-style-two .why-choose-image {
@@ -2305,7 +2314,7 @@ h3 {
 .facilities-section .facilities-text h2 {
   font-size: 35px;
   font-weight: 700;
-  color: #3c0c70;
+  color: #005192;
   margin-bottom: 10px;
 }
 
@@ -2321,7 +2330,7 @@ h3 {
 .facilities-section .facilities-text ul li {
   list-style: none;
   font-size: 20px;
-  color: #3c0c70;
+  color: #005192;
   margin-bottom: 5px;
 }
 
@@ -2394,7 +2403,7 @@ h3 {
 .contact-section .contact-area h2 {
   font-size: 35px;
   font-weight: 600;
-  color: #3c0c70;
+  color: #005192;
   margin-bottom: 30px;
 }
 
@@ -2494,7 +2503,7 @@ h3 {
 .banner-style-three {
   height: 100vh;
   position: relative;
-  background: #3c0c70;
+  background: #005192;
   padding-top: 60px;
 }
 
@@ -2569,7 +2578,7 @@ h3 {
 }
 
 .about-style-three .about-img::before {
-  background: #3c0c70;
+  background: #005192;
   width: 90px;
   height: 150px;
   top: -65px;
@@ -2582,7 +2591,7 @@ h3 {
 }
 
 .about-style-three .about-img::after {
-  background: #3c0c70;
+  background: #005192;
   width: 90px;
   height: 150px;
   bottom: -60px;
@@ -2969,7 +2978,7 @@ h3 {
 .transport-style-three .transport-card .transport-img::before {
   position: absolute;
   content: "";
-  background: #3c0c70;
+  background: #005192;
   width: 100%;
   height: 100%;
   top: 0;
@@ -2984,7 +2993,7 @@ h3 {
 .transport-style-three .transport-card .transport-img::after {
   position: absolute;
   content: "";
-  background: #3c0c70;
+  background: #005192;
   width: 100%;
   height: 100%;
   right: 0;
@@ -3070,7 +3079,7 @@ h3 {
   font-size: 25px;
   font-weight: 700;
   margin-bottom: 15px;
-  color: #3c0c70;
+  color: #005192;
 }
 
 .service-details-area .service-post-area p {
@@ -3084,7 +3093,7 @@ h3 {
 
 .service-details-area .service-post-area ul li {
   list-style: none;
-  color: #3c0c70;
+  color: #005192;
   font-size: 16px;
   font-weight: 600;
   margin-bottom: 8px;
@@ -3113,7 +3122,7 @@ h3 {
   font-size: 20px;
   padding: 20px;
   color: #ffffff;
-  background: #3c0c70;
+  background: #005192;
   margin-bottom: 0;
   font-weight: 700;
   border-radius: 10px 10px 0 0;
@@ -3140,7 +3149,7 @@ h3 {
 }
 
 .service-details-area .service-sidebar .sidebar-widget ul li:last-child {
-  border-bottom: 0px solid #3c0c70;
+  border-bottom: 0px solid #005192;
 }
 
 .service-details-area .service-sidebar .sidebar-widget ul li:hover {
@@ -3191,7 +3200,7 @@ h3 {
 .faq-section .accordions .accordion-item {
   background-color: #f9f9f9;
   margin-bottom: 30px;
-  border: 1px solid #3c0c70;
+  border: 1px solid #005192;
 }
 
 .faq-section .accordions .accordion-item .accordion-title {
@@ -3204,7 +3213,7 @@ h3 {
 }
 
 .faq-section .accordions .accordion-item .accordion-title.active-title {
-  background-color: #3c0c70;
+  background-color: #005192;
 }
 
 .faq-section .accordions .accordion-item .accordion-title.active-title h2 {
@@ -3225,7 +3234,7 @@ h3 {
   -webkit-box-pack: justify;
   -ms-flex-pack: justify;
   justify-content: space-between;
-  color: #3c0c70;
+  color: #005192;
   line-height: 20px;
 }
 
@@ -3276,7 +3285,7 @@ h3 {
 
 .error-section h2 {
   font-size: 50px;
-  color: #3c0c70;
+  color: #005192;
   font-family: "Titillium Web", sans-serif;
   text-align: center;
   font-weight: 700;
@@ -3324,7 +3333,7 @@ h3 {
   font-size: 30px;
   font-weight: 600;
   margin-bottom: 30px;
-  color: #3c0c70;
+  color: #005192;
 }
 
 .terms-section .terms-text h3 {
@@ -3408,7 +3417,7 @@ h3 {
 }
 
 .blog-style-three .blog-card .blog-img .blog-btn a:hover {
-  background: #3c0c70;
+  background: #005192;
 }
 
 .blog-style-three .blog-card .blog-text p {
@@ -3446,12 +3455,12 @@ h3 {
 }
 
 .blog-style-three nav .pagination .page-item .page-link.active {
-  background: #3c0c70;
+  background: #005192;
   color: #ffffff;
 }
 
 .blog-style-three nav .pagination .page-item .page-link:hover {
-  background: #3c0c70;
+  background: #005192;
   color: #ffffff;
 }
 
@@ -3469,7 +3478,7 @@ h3 {
   font-size: 25px;
   font-weight: 700;
   margin-bottom: 15px;
-  color: #3c0c70;
+  color: #005192;
 }
 
 .blog-details-area .blog-post-area p {
@@ -3483,7 +3492,7 @@ h3 {
 
 .blog-details-area .blog-post-area ul li {
   list-style: none;
-  color: #3c0c70;
+  color: #005192;
   font-size: 16px;
   font-weight: 600;
   margin-bottom: 8px;
@@ -3523,24 +3532,24 @@ h3 {
 }
 
 .blog-details-area .blog-sidebar .blog-search form input:focus {
-  border: 1px solid #3c0c70;
+  border: 1px solid #005192;
   outline: 0;
 }
 
 .blog-details-area .blog-sidebar .blog-search form ::-webkit-input-placeholder {
-  color: #3c0c70;
+  color: #005192;
 }
 
 .blog-details-area .blog-sidebar .blog-search form :-ms-input-placeholder {
-  color: #3c0c70;
+  color: #005192;
 }
 
 .blog-details-area .blog-sidebar .blog-search form ::-ms-input-placeholder {
-  color: #3c0c70;
+  color: #005192;
 }
 
 .blog-details-area .blog-sidebar .blog-search form ::placeholder {
-  color: #3c0c70;
+  color: #005192;
 }
 
 .blog-details-area .blog-sidebar .blog-search form button {
@@ -3550,7 +3559,7 @@ h3 {
 }
 
 .blog-details-area .blog-sidebar .blog-search form button i {
-  color: #3c0c70;
+  color: #005192;
   width: 40px;
   height: 40px;
   display: inline-block;
@@ -3563,7 +3572,7 @@ h3 {
 }
 
 .blog-details-area .blog-sidebar .blog-search form button i:hover {
-  background: #3c0c70;
+  background: #005192;
   color: #ffffff;
 }
 
@@ -3577,7 +3586,7 @@ h3 {
 .blog-details-area .blog-sidebar .blog-widget h3 {
   padding: 20px;
   color: #ffffff;
-  background: #3c0c70;
+  background: #005192;
   margin-bottom: 0;
   font-weight: 700;
   border-radius: 10px 10px 0 0;
@@ -3644,7 +3653,7 @@ h3 {
 }
 
 .blog-details-area .blog-sidebar .blog-widget ul li:last-child {
-  border-bottom: 0px solid #3c0c70;
+  border-bottom: 0px solid #005192;
 }
 
 .blog-details-area .blog-sidebar .blog-widget ul li:hover {
@@ -3710,7 +3719,7 @@ h3 {
 .contact-card-section .contact-card::before {
   position: absolute;
   content: "";
-  background: #3c0c70;
+  background: #005192;
   bottom: 0;
   left: 0;
   width: 100%;
@@ -3776,7 +3785,7 @@ h3 {
 /*----------  Contact Page Two CSS End ----------*/
 /* PreLoader CSS Start */
 .loader-content {
-  background: #3c0c70;
+  background: #005192;
   height: 100%;
   width: 100%;
   position: fixed;
@@ -3896,7 +3905,7 @@ h3 {
   width: 40px;
   height: 50px;
   color: #ffffff;
-  background: #3c0c70;
+  background: #005192;
   text-align: center;
   border-radius: 5px;
   position: fixed;
@@ -4085,7 +4094,7 @@ h3 {
     transform: translateY(10px);
   }
   70% {
-    background: #3c0c70;
+    background: #005192;
     -webkit-transform: translateY(0px);
     transform: translateY(0px);
   }
@@ -4104,7 +4113,7 @@ h3 {
     transform: translateY(10px);
   }
   70% {
-    background: #3c0c70;
+    background: #005192;
     -webkit-transform: translateY(0px);
     transform: translateY(0px);
   }
